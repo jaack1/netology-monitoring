@@ -25,8 +25,8 @@ Nagios - Pull
 
 7. 
 
-![Image alt](https://github.com/jaack1//netology-monitoring/blob/master/screenshots/13-7.png)
+![Image alt](https://github.com/jaack1/netology-monitoring/blob/main/screenshots/13-7.png)
 
 8. 
 
-![Image alt](https://github.com/jaack1//netology-monitoring/blob/master/screenshots/13-8.png)
+![Image alt](https://github.com/jaack1/netology-monitoring/blob/main/screenshots/13-8.png)
