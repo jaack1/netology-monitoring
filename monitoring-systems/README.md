@@ -17,10 +17,10 @@
       упрощённая отладка получения данных с агентов
 
 6.  
-Prometheus - Pull
-TICK Stack - Push
-Zabbix - Гибридная
-VictoriaMetrics - Гибридная
+Prometheus - Pull; 
+TICK Stack - Push; 
+Zabbix - Гибридная; 
+VictoriaMetrics - Гибридная; 
 Nagios - Pull
 
 7. 
