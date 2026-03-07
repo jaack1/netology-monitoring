@@ -18,4 +18,4 @@ node_load1; node_load5; node_load15.
 
 4. 
 
-https://github.com/jaack1/netology-monitoring/blob/main/dashboard.json
+https://github.com/jaack1/netology-monitoring/blob/main/grafana/dashboard.json
